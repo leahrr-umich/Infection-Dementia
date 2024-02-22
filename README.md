@@ -12,3 +12,8 @@ To mitigate ascertainment bias and reverse-causation due to the lengthy pre-diag
 Sensitivity analyses explored the impact of excluding pharmaceutical and mortality records from dementia ascertainment and accounted for neighborhood deprivation. 
 Due to computational limits, hazard models were estimated in four randomly-selected 25% subsets of the male and female populations, with results pooled using fixed-effects meta-analysis (via the "metafor" package in R) to derive total-population estimates. This approach allowed for detailed examination of infection-dementia associations by age band, sex, and across varying time intervals, providing a comprehensive analysis of the temporal dynamics and risk factors involved.
 
+# Table of contents 
+TODO 
+
+# Acknowledgements
+This research was supported by grant P30AG066582 from the National Institute on Aging (NIA) through the Center to Accelerate Population Research in Alzheimer’s and grant P30AG066589 from the NIA through the Center for Advancing Sociodemographic and Economic Study of Alzheimer’s Disease and Related Dementias. Additional support was provided by grants R01AG032282 and R01AG049789 from the NIA and grant MR/P005918 from the UK Medical Research Council. We thank Statistics New Zealand and their staff for access to the IDI data and timely ethics review of output data. We thank the Public Policy Institute at the University of Auckland for access to their Statistics New Zealand data lab. We also thank Hamish Jamieson, Amanda Kvalsvig, and Alzheimers New Zealand for helpful comments on earlier drafts of this manuscript.
