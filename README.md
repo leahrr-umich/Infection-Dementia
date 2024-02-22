@@ -15,8 +15,8 @@ Due to computational limits, hazard models were estimated in four randomly-selec
 # Table of contents 
 TODO 
 
-# Acknowledgements
-This research was supported by grant P30AG066582 from the National Institute on Aging (NIA) through the Center to Accelerate Population Research in Alzheimer’s and grant P30AG066589 from the NIA through the Center for Advancing Sociodemographic and Economic Study of Alzheimer’s Disease and Related Dementias. Additional support was provided by grants R01AG032282 and R01AG049789 from the NIA and grant MR/P005918 from the UK Medical Research Council. We thank Statistics New Zealand and their staff for access to the IDI data and timely ethics review of output data. We thank the Public Policy Institute at the University of Auckland for access to their Statistics New Zealand data lab. We also thank Hamish Jamieson, Amanda Kvalsvig, and Alzheimers New Zealand for helpful comments on earlier drafts of this manuscript.
+# Acknowledgements and Authors
+**Acknowledgements:** This research was supported by grant P30AG066582 from the National Institute on Aging (NIA) through the Center to Accelerate Population Research in Alzheimer’s and grant P30AG066589 from the NIA through the Center for Advancing Sociodemographic and Economic Study of Alzheimer’s Disease and Related Dementias. Additional support was provided by grants R01AG032282 and R01AG049789 from the NIA and grant MR/P005918 from the UK Medical Research Council. We thank Statistics New Zealand and their staff for access to the IDI data and timely ethics review of output data. We thank the Public Policy Institute at the University of Auckland for access to their Statistics New Zealand data lab. We also thank Hamish Jamieson, Amanda Kvalsvig, and Alzheimers New Zealand for helpful comments on earlier drafts of this manuscript.
 
 **Code authors:** 
 - Barry J. Milne, PhD
