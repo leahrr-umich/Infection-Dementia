@@ -38,7 +38,7 @@ Per the confidentiality rules of Statistics NZ, reported frequencies/counts were
 **9. TimeVaryingCovAnalyses.sas**
 - Time-varying covariate analyses
   
-**PoolingEstimates_FixedEffectsMA.R**
+**10. PoolingEstimates_FixedEffectsMA.R**
 - Pooling associations from randomly-selected 25% subsets of males and females to derive total-population estimates
 
 # Acknowledgements and Authors
