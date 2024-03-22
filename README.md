@@ -11,16 +11,35 @@ Due to computational constraints, hazard models were estimated in four randomly-
 Per the confidentiality rules of Statistics NZ, reported frequencies/counts were randomly rounded to a base of three. 
 
 # Table of contents 
-** 1. ADRD_dx_ascertainment.sas:  Coding dementia diagnoses from health data **
-** 2. Infection_dx_ascertainment.sas:  Coding infection diagnoses from hospitalization data **
-** 3. PhysMentalHealth_DiagnosticData.sas:  Data setup for mental disorders and chronic physical diseases **
-** 4. CohortDerivation.sas:  Birth-cohort setup
-** 5. Descriptive_results.sas  Descriptive analyses, incl. distributions of infections and dementia **
-** 6. Number of Infections.sas:   Data setup and analyses for number of infections **
-** 7. TimeVaryingCov_SetUp.sas:   Data setup for time-varying covariate analysis **
-** 8. Sensitivity.sas:   Data setup for sensitivity analyses **
-** 9. TimeVaryingCovAnalyses.sas:   Time-varying covariate analyses **
-** PoolingEstimates_FixedEffectsMA.R:   Pooling associations from randomly-selected 25% subsets of males and females to derive total-population estimates **
+**1. ADRD_dx_ascertainment.sas**   
+- Coding dementia diagnoses from health data
+  
+**2. Infection_dx_ascertainment.sas**
+- Coding infection diagnoses from hospitalization data
+  
+**3. PhysMentalHealth_DiagnosticData.sas**
+- Data setup for mental disorders and chronic physical diseases
+  
+**4. CohortDerivation.sas**
+- Birth-cohort setup
+  
+**5. Descriptive_results.sas**
+- Descriptive analyses, incl. distributions of infections and dementia
+  
+**6. Number of Infections.sas**
+- Data setup and analyses for number of infections
+  
+**7. TimeVaryingCov_SetUp.sas**
+- Data setup for time-varying covariate analysis
+  
+**8. Sensitivity.sas**
+- Data setup for sensitivity analyses
+  
+**9. TimeVaryingCovAnalyses.sas**
+- Time-varying covariate analyses
+  
+**PoolingEstimates_FixedEffectsMA.R**
+- Pooling associations from randomly-selected 25% subsets of males and females to derive total-population estimates
 
 # Acknowledgements and Authors
 **Acknowledgements:** 
