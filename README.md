@@ -1,8 +1,5 @@
 # Associations of hospital-treated infections with subsequent dementia: Nationwide 30-year analysis
 
-**Statistical code currently under preparation for posting:** Statistical code related to the manuscript will be made available once the files have been reviewed by Statistics New Zealand for adherence to Statistics New Zealands's confidentiality rules and output from the NZIDI secure data-lab.
-For inquiries or further information, please contact Leah Richmond-Rakerd, PhD, at leahrr@umich.edu. 
-
 # Project Abstract 
 Infections, which can prompt neuroinflammation, may be a risk factor for dementia. More information is needed concerning associations across different infections and different dementias, and from longitudinal studies with long follow-ups. This New Zealand-based population-register study tested whether infections antedate dementia across three decades. We identified individuals born between 1929-1968 and followed them from 1989-2019 (N=1,742,406, baseline age=21-60y). Infection diagnoses were ascertained from public-hospital records. Dementia diagnoses were ascertained from public-hospital, mortality, and pharmaceutical records. Relative to individuals without an infection, those with an infection were at increased risk of dementia (HR=2.93 [95% CI: 2.68-3.20]). Associations were evident for dementia diagnoses made up to 25-30y after infection diagnoses. Associations held after accounting for pre-existing physical diseases, mental disorders, and socioeconomic deprivation. Associations were evident for viral, bacterial, parasitic, and other infections; and for Alzheimer’s disease and other dementias, including vascular dementia. Preventing infections might reduce the burden of neurodegenerative conditions.
 
@@ -14,7 +11,16 @@ Due to computational constraints, hazard models were estimated in four randomly-
 Per the confidentiality rules of Statistics NZ, reported frequencies/counts were randomly rounded to a base of three. 
 
 # Table of contents 
-To be provided when statistical code is posted. 
+## 1. ADRD_dx_ascertainment.sas
+## 2. Infection_dx_ascertainment.sas
+## 3. PhysMentalHealth_DiagnosticData.sas
+## 4. CohortDerivation.sas
+## 5. Descriptive_results.sas
+## 6. Number of Infections.sas
+## 7. TimeVaryingCov_SetUp.sas
+## 8. Sensitivity.sas
+## 9. TimeVaryingCovAnalyses.sas
+## PoolingEstimates_FixedEffectsMA.R
 
 # Acknowledgements and Authors
 **Acknowledgements:** 
